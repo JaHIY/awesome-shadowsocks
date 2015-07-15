@@ -1,0 +1,24 @@
+# Awesome Shadowsocks
+
+- [Awesome Shadowsocks](#awesome-shadowsocks)
+    - Client/Server
+        - [shadowsocks](https://github.com/shadowsocks/shadowsocks)
+        - [shadowsocks-csharp-server](https://github.com/mengskysama/shadowsocks-csharp-server)
+        - [shadowsocks-docker](https://github.com/guolin/shadowsocks-docker)
+        - [shadowsocks-dotcloud](https://github.com/shadowsocks/shadowsocks-dotcloud)
+        - [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go)
+        - [shadowsocks-java](https://github.com/nooner2014/shadowsocks-java)
+        - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
+        - [shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs)
+        - [shadowsocks-php](https://github.com/walkor/shadowsocks-php)
+        - [shadowsocks-ruby](https://github.com/clowwindy/shadowsocks-ruby)
+        - [shadowsocks-rust](https://github.com/zonyitoo/shadowsocks-rust)
+        - [shadowsocks-win32pack](https://github.com/clowwindy/shadowsocks-win32pack)
+    - Client only
+        - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+        - [shadowsocks-chromeapp](https://github.com/shadowsocks/shadowsocks-chromeapp)
+        - [shadowsocks-csharp](https://github.com/shadowsocks/shadowsocks-csharp)
+        - [shadowsocks-gtk](https://github.com/apporc/shadowsocks-gtk)
+        - [shadowsocks-gui](https://github.com/shadowsocks/shadowsocks-gui)
+        - [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS)
+        - [shadowsocks-qt5](https://github.com/librehat/shadowsocks-qt5)
